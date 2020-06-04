@@ -5,7 +5,7 @@
 
 ### Working
 
-<img src="/images/working.gif" title="working" alt="working">
+<img src="./images/working.gif" title="working" alt="working">
 
 
 ### Windows Users
