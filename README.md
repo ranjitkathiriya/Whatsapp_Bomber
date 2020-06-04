@@ -1,4 +1,4 @@
-# Whatsapp Bomber
+# Web Scraping - Whatsapp Bomber
 
 <img src="./images/whatsapp.jpeg" title="Whatsapp Bomber" alt="Whatsapp Bomber">
 
